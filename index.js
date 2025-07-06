@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const logoContainer = document.getElementById("logoContainer");
   const mainContent = document.getElementById("mainContent");
 
-  logo.classList.add("animate__zoomIn");
+  logo.classList.add("animate__zoomIn","animate__slower");
 
   logo.addEventListener("animationend", () => {
     logoContainer.style.display = "none";
