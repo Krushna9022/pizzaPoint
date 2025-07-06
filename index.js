@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
   {
     name: "Margarita",
     description: "Plain cheese",
-    image: "./images/magiritia.jpg",
+    image: "./images/marghertia.jpeg",
     price:69
   },
   {
